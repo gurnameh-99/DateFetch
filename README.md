@@ -7,13 +7,13 @@ Given a dictionary D where key is of form YYYY-MM-DD and its corresponding value
 2) and corresponding value (type: INT) is sum of values on that day
 
 ## Example
-Input -- D= {'2020-01-01':4, '2020-01-02': 4, '2020-01-03': 6, '2020-01-04': 8, '2020-01-05': 2, '2020-01-06': -6,  '2020-01-07': 2, 2020-01-08': -2}
+*Input -- D= {'2020-01-01':4, '2020-01-02': 4, '2020-01-03': 6, '2020-01-04': 8, '2020-01-05': 2, '2020-01-06': -6,  '2020-01-07': 2, 2020-01-08': -2}
 
-Output -- D= ('Mon': -6, 'Tue': 2, 'Wed': 2, 'Thu': 4, 'Fri': 6, 'Sat': 8, 'Sun': 2}
+*Output -- D= ('Mon': -6, 'Tue': 2, 'Wed': 2, 'Thu': 4, 'Fri': 6, 'Sat': 8, 'Sun': 2}
 
 ## Running tests
 To run tests, run the following command in the terminal:
 
->```yarn add jest```
->```yarn global add jest``` (if you don't have jest installed globally)
->```jest```
+*```yarn add jest```
+*```yarn global add jest``` (if you don't have jest installed globally)
+*```jest```
