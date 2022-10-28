@@ -14,6 +14,6 @@ Given a dictionary D where key is of form YYYY-MM-DD and its corresponding value
 ## Running tests
 To run tests, run the following command in the terminal:
 
-*```yarn add jest```
-*```yarn global add jest``` (if you don't have jest installed globally)
-*```jest```
+* ```yarn add jest```
+* ```yarn global add jest``` (if you don't have jest installed globally)
+* ```jest```
